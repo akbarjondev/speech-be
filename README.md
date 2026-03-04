@@ -15,9 +15,12 @@ npm install
 
 3. Create a `.env` file in the root directory and add the following environment variables:
 
-````env
+```env
 OPENAI_API_KEY=your_openai_api_key
-```4. Start the server
+```
+
+4. Start the server
+
 ```bash
 node server.js
-````
+```
